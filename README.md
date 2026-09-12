@@ -1,0 +1,1 @@
+En este repositorio voy a plasmar todas las actividades del primer modulo de versionado de codigo para poder ser evaluados. Mi nombre es Daniel Monroy Segovia
